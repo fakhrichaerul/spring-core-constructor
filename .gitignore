@@ -1,0 +1,7 @@
+.idea
+spring-core-xml.iml
+*.iml
+target
+.setting
+.project
+.classpath
